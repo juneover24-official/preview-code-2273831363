@@ -1,7 +1,7 @@
 {
   "qq_number": "2273831363",
   "group_number": "948559209",
-  "updated_at": "2026-06-20T00:23:12+00:00",
+  "updated_at": "2026-06-20T05:13:24+00:00",
   "skins": [
     {
       "name": "麦穗の福利",
@@ -26,6 +26,12 @@
       "file": "麦穗の野有上秋.bds",
       "thumb": "麦穗の野有上秋.bds_py_26_light_thumb.png",
       "full": "麦穗の野有上秋.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "麦穗の与猫",
+      "file": "麦穗の与猫.bdi",
+      "thumb": "麦穗の与猫.bdi_py_26_light_thumb.png",
+      "full": "麦穗の与猫.bdi_py_26_light_thumb.png"
     }
   ]
 }
