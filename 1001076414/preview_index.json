@@ -1,13 +1,19 @@
 {
   "qq_number": "2273831363",
   "group_number": "1001076414",
-  "updated_at": "2026-06-30T11:58:44+00:00",
+  "updated_at": "2026-06-30T11:58:56+00:00",
   "skins": [
     {
       "name": "麦穗の泡面喵",
       "file": "麦穗の泡面喵.bdi",
       "thumb": "麦穗の泡面喵.bdi_py_26_light_thumb.png",
       "full": "麦穗の泡面喵.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "麦穗の泡面喵.bds",
+      "thumb": "麦穗の泡面喵.bds_py_26_light_thumb.png",
+      "full": "麦穗の泡面喵.bds_py_26_light_thumb.png"
     }
   ]
 }
