@@ -1,7 +1,7 @@
 {
   "qq_number": "2273831363",
   "group_number": "948559209",
-  "updated_at": "2026-11-16T03:45:17+00:00",
+  "updated_at": "2026-11-16T03:45:22+00:00",
   "skins": [
     {
       "name": "麦穗の福利",
@@ -45,6 +45,13 @@
       "thumb": "穗穗の雨季.bds_py_26_light_thumb.png",
       "full": "穗穗の雨季.bds_py_26_light_thumb.png",
       "file_id": "82ca38f1c6892a51b04141d1f4c0b903"
+    },
+    {
+      "name": "穗穗の雨季",
+      "file": "穗穗の雨季.bdi",
+      "thumb": "穗穗の雨季.bdi_py_26_light_thumb.png",
+      "full": "穗穗の雨季.bdi_py_26_light_thumb.png",
+      "file_id": "3d5c1cb1117fd4f33b767855a8d369b3"
     }
   ]
 }
